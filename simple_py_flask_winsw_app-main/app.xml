@@ -1,0 +1,7 @@
+<service>
+  <id>flask-app</id>
+  <name>Flask-app</name>
+  <description>This service runs Flask-app.</description>
+  <executable>py</executable>
+  <arguments>C:\app\app.py</arguments>
+</service>
